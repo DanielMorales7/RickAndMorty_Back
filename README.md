@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# WebServ + RestServ
-
-Recuerdem que deben ejecutar ```npm install`` para reconstruir los módulos de node
 =======
 # RickAndMorty_Back
 Consumo del API que muestra personajes de Rick And Morty
